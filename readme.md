@@ -4,7 +4,7 @@
 1. Clone repo
 
 ```
-git clone https://
+git clone https://github.com/enochval/indorse-auth-api.git
 ```
 
 2. cd into the project folder and install dependencies
